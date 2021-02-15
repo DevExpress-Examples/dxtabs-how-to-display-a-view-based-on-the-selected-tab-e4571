@@ -1,14 +1,3 @@
-<!-- default file list -->
-*Files to look at*:
+# This example is obsolete
 
-<!-- default file list end -->
-# dxTabs - How to display a view based on the selected tab
-
-
-<p>This example demonstrates how to display a view based on the selected tab. The main idea is to use the <a href="http://knockoutjs.com/documentation/if-binding.html"><u>if binding</u></a> to display an appropriate partial view based on the selected tab index.</p>
-<p> </p>
-<p><strong> See also: </strong><br /><a href="https://www.devexpress.com/Support/Center/p/T267165">T267165: dxTabs - How to display a content based on the selected tab - AngularJS Approach</a></p>
-
-<br/>
-
-
+<p>From v18.1, the DevExtreme hybrid mobile-related tools, including DevExtreme SPA Framework, are deprecated. See <a href="https://community.devexpress.com/blogs/aspnet/archive/2018/02/26/devextreme-hybrid-mobile-tools-deprecation-in-v18-1.aspx"><u>this blog post</u></a> for more information. The mobile tools documentation was removed from the newer versions, but you can still find it in <a href="https://js.devexpress.com/Documentation/17_2/Guide/SPA_Framework/Application_Development/"><u>the older versions</u></a>.</p>

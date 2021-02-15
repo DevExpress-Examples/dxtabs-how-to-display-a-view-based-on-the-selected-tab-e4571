@@ -1,4 +1,0 @@
-<div data-options="dxView : { name: 'Tab0', title: 'Tab0' } " >
-         This is Tab0<br />
-        <div data-bind="dxButton: { text: 'Click Me', onClick: onButtonClick }"></div>
-</div>
